@@ -22,4 +22,6 @@ dependencies:
   - pandas
   - matplotlib
   - ipywidgets>=7.6,<8
+  - https://github.com/jeongchangil/b_lab_theme.git
+  - -e .
 
