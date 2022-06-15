@@ -6,7 +6,6 @@ channels:
   - defaults
   - bioconda
   - conda-forge
-  - jupyter labextension
 dependencies:
   # Jupyter dependencies
   - jupyterhub>=1.5,<2
@@ -23,4 +22,3 @@ dependencies:
   - pandas
   - matplotlib
   - ipywidgets>=7.6,<8
-  - jupyterlab-theme-solarized-dark
