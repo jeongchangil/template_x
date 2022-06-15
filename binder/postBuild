@@ -1,5 +1,0 @@
-
-git clone https://github.com/jeongchangil/b_lab_theme.git
-pip install -e .
-jupyter labextension develop . --overwrite
-jlpm run build
